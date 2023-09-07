@@ -10,8 +10,8 @@
     "type": "library",
     "authors": [
         {
-            "name": "Andrés Santibáñez",
-            "email": "santibanez.andres@gmail.com",
+            "name": "Matheus Lessing",
+            "email": "matheus.lessing@gmail.com",
             "role": "Developer"
         }
     ],
@@ -51,6 +51,5 @@
             }
         }
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
 }
